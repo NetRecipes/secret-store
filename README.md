@@ -2,6 +2,8 @@
 
 `.NET Aspire` + `DAPR` - Secret Store
 
+## For a written article, refer: [Secrets](https://netrecipes.github.io/courses/dapr-aspire/secrets/)
+
 - [x] `Local JSON` file
 
 ```yaml
